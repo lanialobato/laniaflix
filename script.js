@@ -2,7 +2,7 @@
 const filmes = [
   {
     titulo: "O Encanto",
-    imagem: "img/encanto.jpg"
+    imagem: "img/o-encanto.jpeg"
   },
   {
     titulo: "Lost",
@@ -10,11 +10,11 @@ const filmes = [
   },
   {
     titulo: "Para Sempre",
-    imagem: "img/para-sempre.jpg"
+    imagem: "img/para-sempre.jpeg"
   },
   {
     titulo: "Velozes e Furiosos",
-    imagem: "img/velozes-e-furiosos.jpg"
+    imagem: "img/velozes-e-furiosos.jpeg"
   },
   {
     titulo: "Enrolados",
@@ -22,7 +22,7 @@ const filmes = [
   },
   {
     titulo: "Homem-Aranha",
-    imagem: "img/homem-aranha.jpg"
+    imagem: "img/homem-aranha.png"
   }
 ];
 
